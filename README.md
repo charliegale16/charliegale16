@@ -2,7 +2,6 @@ Hey i'm Charlie
 ========================
 
 I'm a Software Engineer
------------------------
 
 I recently graduated with a bachelor's in computer science. I've been coding for 5+ years now and love working on anything code.
 
