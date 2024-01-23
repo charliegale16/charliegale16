@@ -6,6 +6,7 @@ Hey i'm Charlie
 I recently graduated with a bachelor's in computer science. I've been coding for 5+ years now and love working on anything code.
 
 🌍  I'm based in Southern California
+
 ✉️  You can contact me at [charliegale16@gmail.com](mailto:charliegale16@gmail.com)
 
 ## My Evolving Tech Stack
